@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.neon-glow {
+  text-shadow: 0 0 6px #e94560, 0 0 12px #e94560, 0 0 24px #e94560;
+}
